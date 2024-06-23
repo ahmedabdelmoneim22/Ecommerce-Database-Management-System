@@ -468,7 +468,6 @@ Order By purchase_timestamp_key,approved_at_key,delivered_carrier_date_key,
 delivered_customer_date_key,estimated_delivery_date_key,shipping_limit_date_key;
 ---------------------
 ---------------------
--->>Final OLTP<<--
 ---------------------
 
 
