@@ -3,3 +3,10 @@ Project include will be created ERD · Mapping · Online Transaction Processing 
 -------------------------------------------------------
 # >>Brazilian E-Commerce Public Dataset by Olist Kaggle
 >>-----------------------------------------------------
+# E-commerce Database Management System Project using SQL server, SSIS, SSAS and SSRS
+# • Created a (DBMS) project, including a Normalization, Entity-Relationship Diagram (ERD) and Mapping.
+# • Used SQL for implementing OLTP, and Datawarehouse OLAP components.
+# • Managed challenges related to data integration, scalability, and complex data transformations.
+# • Used (SSIS) for seamless data extraction, transformation, and loading processes.
+# • Used (SSAS) to make cubes and (SSRS) to provide intuitive insights and reports for end-users.
+# -----------------------------------------------------
